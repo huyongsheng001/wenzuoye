@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0;
+}
+a{
+	text-decoration-line: none;
+	color: black;
+	font-size: 18px;
+}
+.movie{
+    width:1400px;
+    height:50px;
+    font-size: large;
+    color: aquamarine;
+    margin:auto;
+}
+.footer{
+    text-align: center;
+    background-color: skyblue;
+    height: 120px;
+    margin-top: 30px;
+    font-size: 32px;
+}

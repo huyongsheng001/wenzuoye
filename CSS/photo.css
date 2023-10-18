@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration-line: none;
+	color: black;
+	font-size: 18px;
+}
+hr{
+	clear: both;
+	display: none;
+}
+.photo-fr{
+    width: 1400px;
+	height: 2400px;
+	margin: 0 auto;
+	background-image: url("../img/11.jpg");
+	background-size: 150%;
+}
+
+.top-title>marquee>img{
+	width: 1400px;
+	height: 800px;
+}
+.title-text{
+	display: flex;
+	justify-content: space-around;
+	height: 36px;
+	padding: 10px;
+	background-color: skyblue;
+}
+.title-text>div>a{
+	font-size: x-large;
+}
+.title-text>div>a:hover{
+	color: whitesmoke;
+	background-color: rgb(8, 38, 96);
+}
+.alumn-fr>ul>li{
+    display:inline-block;
+    list-style: none;
+    margin-left: 80px;
+}
+.alumn-fr>ul>li>img{
+    width: 300px;
+    border-radius: 6px;
+    height: 200px;
+    margin: 70px 30px 15px 30px;
+}
+.alumn-fr>ul>li>p{
+    font-size: larger;
+    text-align: center;
+}
